@@ -1,0 +1,12 @@
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\obj\Debug\netcoreapp3.1\MathTask.AssemblyInfoInputs.cache
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\obj\Debug\netcoreapp3.1\MathTask.AssemblyInfo.cs
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\obj\Debug\netcoreapp3.1\MathTask.csproj.CoreCompileInputs.cache
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\bin\Debug\netcoreapp3.1\MathTask.exe
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\bin\Debug\netcoreapp3.1\MathTask.deps.json
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\bin\Debug\netcoreapp3.1\MathTask.runtimeconfig.json
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\bin\Debug\netcoreapp3.1\MathTask.runtimeconfig.dev.json
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\bin\Debug\netcoreapp3.1\MathTask.dll
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\bin\Debug\netcoreapp3.1\MathTask.pdb
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\obj\Debug\netcoreapp3.1\MathTask.dll
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\obj\Debug\netcoreapp3.1\MathTask.pdb
+C:\Универ\C#\CSharp_Labs\SecondLab\MathTask\MathTask\obj\Debug\netcoreapp3.1\MathTask.genruntimeconfig.cache

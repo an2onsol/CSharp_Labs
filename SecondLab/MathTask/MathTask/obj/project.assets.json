@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Универ\\C#\\CSharp_Labs\\FirstLab\\FirstLab\\FirstLab.csproj",
-      "projectName": "FirstLab",
-      "projectPath": "C:\\Универ\\C#\\CSharp_Labs\\FirstLab\\FirstLab\\FirstLab.csproj",
+      "projectUniqueName": "C:\\Универ\\C#\\CSharp_Labs\\SecondLab\\MathTask\\MathTask\\MathTask.csproj",
+      "projectName": "MathTask",
+      "projectPath": "C:\\Универ\\C#\\CSharp_Labs\\SecondLab\\MathTask\\MathTask\\MathTask.csproj",
       "packagesPath": "C:\\Users\\PC73\\.nuget\\packages\\",
-      "outputPath": "C:\\Универ\\C#\\CSharp_Labs\\FirstLab\\FirstLab\\obj\\",
+      "outputPath": "C:\\Универ\\C#\\CSharp_Labs\\SecondLab\\MathTask\\MathTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC73\\AppData\\Roaming\\NuGet\\NuGet.Config",

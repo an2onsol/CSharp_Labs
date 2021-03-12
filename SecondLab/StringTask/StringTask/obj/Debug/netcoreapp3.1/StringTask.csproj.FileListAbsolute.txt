@@ -1,0 +1,13 @@
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\bin\Debug\netcoreapp3.1\StringTask.exe
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\bin\Debug\netcoreapp3.1\StringTask.deps.json
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\bin\Debug\netcoreapp3.1\StringTask.runtimeconfig.json
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\bin\Debug\netcoreapp3.1\StringTask.runtimeconfig.dev.json
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\bin\Debug\netcoreapp3.1\StringTask.dll
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\bin\Debug\netcoreapp3.1\StringTask.pdb
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\obj\Debug\netcoreapp3.1\StringTask.csprojAssemblyReference.cache
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\obj\Debug\netcoreapp3.1\StringTask.AssemblyInfoInputs.cache
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\obj\Debug\netcoreapp3.1\StringTask.AssemblyInfo.cs
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\obj\Debug\netcoreapp3.1\StringTask.csproj.CoreCompileInputs.cache
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\obj\Debug\netcoreapp3.1\StringTask.dll
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\obj\Debug\netcoreapp3.1\StringTask.pdb
+C:\Универ\C#\CSharp_Labs\SecondLab\StringTask\StringTask\obj\Debug\netcoreapp3.1\StringTask.genruntimeconfig.cache

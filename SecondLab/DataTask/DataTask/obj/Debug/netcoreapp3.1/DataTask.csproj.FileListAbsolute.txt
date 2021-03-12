@@ -1,0 +1,13 @@
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\bin\Debug\netcoreapp3.1\DataTask.exe
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\bin\Debug\netcoreapp3.1\DataTask.deps.json
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\bin\Debug\netcoreapp3.1\DataTask.runtimeconfig.json
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\bin\Debug\netcoreapp3.1\DataTask.runtimeconfig.dev.json
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\bin\Debug\netcoreapp3.1\DataTask.dll
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\bin\Debug\netcoreapp3.1\DataTask.pdb
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\obj\Debug\netcoreapp3.1\DataTask.csprojAssemblyReference.cache
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\obj\Debug\netcoreapp3.1\DataTask.AssemblyInfoInputs.cache
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\obj\Debug\netcoreapp3.1\DataTask.AssemblyInfo.cs
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\obj\Debug\netcoreapp3.1\DataTask.csproj.CoreCompileInputs.cache
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\obj\Debug\netcoreapp3.1\DataTask.dll
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\obj\Debug\netcoreapp3.1\DataTask.pdb
+C:\Универ\C#\CSharp_Labs\SecondLab\DataTask\DataTask\obj\Debug\netcoreapp3.1\DataTask.genruntimeconfig.cache
