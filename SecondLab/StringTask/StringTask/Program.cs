@@ -7,7 +7,6 @@ namespace StringTask {
             string[] s = Console.ReadLine().Split(' ');
             s = s.Reverse().ToArray();
             Console.WriteLine(string.Join(" ", s));
-            Console.ReadKey();
         }
     }
 }
