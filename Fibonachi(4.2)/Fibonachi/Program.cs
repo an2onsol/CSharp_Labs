@@ -3,13 +3,13 @@ using System.Runtime.InteropServices;
 
 namespace Fibonachi {
     class Program {
-        [DllImport("Fibonachi.dll")]
+        [DllImport("Fibonachi.dll", CallingConvention = CallingConvention.Cdecl))]
         public static extern int SumOfNumbers(int index);
 
-        [DllImport("Fibonachi.dll")]
+        [DllImport("Fibonachi.dll", CallingConvention = CallingConvention.Cdecl))]
         public static extern int Find(int value);
 
-        [DllImport("Fibonachi.dll")]
+        [DllImport("Fibonachi.dll", CallingConvention = CallingConvention.Cdecl))]
         public static extern int ValueOfIndex(int index);
 
         static void Main(string[] args) {
