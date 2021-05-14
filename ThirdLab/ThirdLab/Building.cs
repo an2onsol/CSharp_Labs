@@ -8,7 +8,7 @@ namespace ThirdLab {
         Industrial,
         Other,
     }
-    public class Building {
+    public abstract class Building {
         private static int currentId;
         public int Id { get; }
         public string Street { get; set; }
@@ -44,16 +44,14 @@ namespace ThirdLab {
             BuildTime = buildTime;
             TypeOfBuilding = typeOfBuilding;
         }
-        public override string ToString() {
-            return "Building{\n" +
-                "Id = " + Id + '\n' +
+        public virtual string ToString() {
+            return "Id = " + Id + '\n' +
                 "Street = " + Street + '\n' +
                 "Building Number = " + BuildingNumber + '\n' +
                 "Number Of Flats = " + NumberOfFlats + '\n' +
                 "Number Of Floors = " + NumberOfFloors + '\n' +
                 "BuildTime = " + BuildTime + '\n' +
-                "Type Of Building = " + TypeOfBuilding + '\n' +
-                '}';
+                "Type Of Building = " + TypeOfBuilding + '\n';
         }
     }
 }
