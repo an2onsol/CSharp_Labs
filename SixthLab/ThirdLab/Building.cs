@@ -16,7 +16,7 @@ namespace ThirdLab {
         public int NumberOfFlats { get; set; }
         public int NumberOfFloors { get; set; }
         public TypesOfBuilding TypeOfBuilding { get; set; } 
-        public DateTime BuildTime { get; }
+        public DateTime BuildTime { get; set; }
         public Building() {
             Id = currentId++;
             Street = "None";
@@ -44,6 +44,7 @@ namespace ThirdLab {
             BuildTime = buildTime;
             TypeOfBuilding = typeOfBuilding;
         }
+        
         public virtual string ToString() {
             return "Id = " + Id + '\n' +
                 "Street = " + Street + '\n' +
