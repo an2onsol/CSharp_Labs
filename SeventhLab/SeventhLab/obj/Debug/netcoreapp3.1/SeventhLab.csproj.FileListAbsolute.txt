@@ -1,0 +1,13 @@
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.exe
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.deps.json
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.runtimeconfig.json
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.runtimeconfig.dev.json
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.dll
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.pdb
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.csprojAssemblyReference.cache
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.AssemblyInfoInputs.cache
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.AssemblyInfo.cs
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.csproj.CoreCompileInputs.cache
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.dll
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.pdb
+C:\Универ\C#\CSharp_Labs\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.genruntimeconfig.cache
