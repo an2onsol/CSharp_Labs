@@ -44,7 +44,7 @@ namespace ThirdLab {
             BuildTime = buildTime;
             TypeOfBuilding = typeOfBuilding;
         }
-        public virtual string ToString() {
+        public override string ToString() {
             return "Id = " + Id + '\n' +
                 "Street = " + Street + '\n' +
                 "Building Number = " + BuildingNumber + '\n' +
